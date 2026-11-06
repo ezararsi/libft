@@ -1,0 +1,11 @@
+# Build-Artefakte
+*.o
+*.a
+a.out
+*.out
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
